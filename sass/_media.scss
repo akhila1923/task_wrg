@@ -1,0 +1,120 @@
+@media only screen and (min-width: 1250px)
+{
+
+}
+@media only screen and (min-width: 992px) and (max-width: 1250px)
+{
+    .mup
+    {
+        margin-top: 0rem !important;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px)
+{
+    nav {
+        margin-left: 5rem !important;
+
+        button
+        {
+            background: white !important;
+        }
+    }
+    .banner
+    {
+        h1
+        {
+            margin: 6rem -4rem 0 !important;
+
+        }
+        hr, p, button
+        {
+            margin: 2rem -4rem !important;
+
+        }
+        
+    }
+    .mtop {
+        padding: 2rem 7rem !important;
+    }
+    .mup {
+        margin-top: 0rem !important;
+    }
+    p,li
+    {
+        font-size: 1rem !important;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 768px)
+{
+    nav {
+        margin-left: 5rem !important;
+
+        button
+        {
+            background: white !important;
+        }
+    }
+    .banner {
+        margin-left: 10rem !important;
+        width: 250px !important;
+    
+        h1
+        {
+            margin: 6rem -4rem 0 !important;
+
+        }
+        hr, p, button
+        {
+            margin: 2rem -4rem !important;
+
+        }
+        
+    }
+    .mtop {
+        padding: 2rem 7rem !important;
+    }
+    .mup {
+        margin-top: 0rem !important;
+    }
+    p,li
+    {
+        font-size: 1rem !important;
+    }
+}
+@media only screen and (max-width: 540px)
+{
+    nav {
+        margin-left: 0rem !important;
+    
+
+        button
+        {
+            background: white !important;
+        }
+    }
+    .banner {
+        margin-left: 10rem !important;
+        width: 135px !important;
+    
+        h1 {
+            margin: 6rem -10rem 0 !important;
+        }
+        hr, p, button {
+            margin: 2rem -10rem !important;
+        }
+        p 
+        {
+            width: 365px !important;
+        }
+    }
+    .mtop {
+        padding: 2rem 7rem !important;
+    }
+    .mup {
+        margin-top: 0rem !important;
+    }
+    p,li
+    {
+        font-size: 1rem !important;
+    }
+}
